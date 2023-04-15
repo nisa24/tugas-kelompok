@@ -53,6 +53,21 @@ List<News> newsData = [
     image:
         "https://asset.kompas.com/crops/GNKLGWdHVxSxhJmGUiOxiKAJTqg=/0x80:960x720/750x500/data/photo/2023/04/15/643a376fd94d2.jpg",
   ),
+  News(
+    id: 7,
+    title: "Puncak Mudik Diprediksi H-3, One Way Dipertimbangkan Hingga Tol Bawen",
+    description: "Kapolda Jawa Tengah Irjen Pol Ahmad Luthfi memperkirakan puncak arus kendaraan dari wilayah barat yang masuk provinsi ini melalui Gerbang Tol Kalikangkung Semarang pada tanggal 18 April 2023 atau H-3 Lebaran. "Beban arus diperkirakan akan capai 3.000 kendaraan per jam saat puncak,kata Ahmad Luthfi, Sabtu (15/4) dikutip dari Antara.Menurut dia, saat puncak arus mudik di Gerbang Tol Kalikangkung tersebut bersamaan dengan pemberlakuan arus satu arah dari barat. Dijelaskan pula bahwa tim pengurai juga sudah disiapkan untuk bantu atasi kepadatan di jalur konvensional saat pemberlakuan one way.Hingga H-7 Lebaran, lanjut dia, sudah terjadi peningkatan sekitar 15 persen untuk arus kendaraan yang masuk melalui Gerbang Tol Kalikangkung.Sementara itu, Direktur Utama PT Jasa Marga Semarang Batang Nasrullah mengatakan bahwa Gerbang Tol Kalikangkung siap menghadapi pemberlakuan one way saat puncak arus mudik.Nasrullah menyebutkan 17 gardu tol akan untuk melayani kendaraan saat pemberlakuan one way yang akan masuk ke Kalikangkung.
+  .",
+    image:
+        "https://akcdn.detik.net.id/visual/2022/04/29/gerbang-tol-kalikangkung-semarang_169.jpeg?w=650&q=90",
+  ),
+   News(
+    id: 8,
+    title: "Gamer Pembocor Dokumen Rahasia AS Didakwa UU Spionase ",
+    description: "Para ahli memperkirakan Teixeira akan menerima lebih banyak dakwaan ke depan karena penyelidik masih memeriksa setiap dokumen yang bocor. Teixeira juga dapat menghadapi lebih banyak hukuman tergantung pada berapa kali dia mengunggah dan mengirimkan setiap dokumen secara terpisah. Pada sidang tersebut, jaksa tinggi keamanan nasional federal Boston, Nadine Pellegrini, meminta agar Teixeira ditahan sambil menunggu persidangan. Selama persidangan yang singkat itu, Teixeira tidak banyak bicara dan hanya menjawab "ya" ketika ditanya apakah dia memahami haknya untuk diam. Hakim mengatakan surat pernyataan keuangan Teixeira menunjukkan dia memenuhi syarat untuk diwakili oleh pembela umum federal dan dia menunjuk salah satunya. Setelah sidang, tiga anggota keluarga Teixeira meninggalkan gedung pengadilan dan masuk ke mobil tanpa berkomentar.Dokumen yang bocor tersebut diyakini sebagai pelanggaran keamanan AS yang paling serius sejak lebih dari 700 ribu dokumen, video, dan kabel diplomatik muncul di situs web WikiLeaks pada 2010 dan 2013 lalu. Pentagon menyebut kebocoran itu sebagai "tindakan kriminal yang disengaja",
+    image:
+        "https://akcdn.detik.net.id/visual/2023/04/14/penyebar-dokumen-rahasia-as-jack-teixeira-1_169.jpeg?w=650&q=90",
+  ),
 ];
 
 ///[* berita terpopuler]
