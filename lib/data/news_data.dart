@@ -1,5 +1,6 @@
 import '/models/news.dart';
 
+// updatee
 ///[* data berita]
 List<News> newsData = [
   News(
