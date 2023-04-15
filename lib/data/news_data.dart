@@ -21,17 +21,21 @@ List<News> newsData = [
   ),
   News(
     id: 3,
-    title: "judul berita",
-    description: "deskripsi.",
+    title:
+        "ridwan kamil sebut sekda jadi plh walkot bandung jadikan yana mulyana",
+    description:
+        "Gubernur Jawa Barat Ridwan Kamil menuturkan Sekretaris Daerah (Sekda) Kota Bandung Ema Sumarna akan menjadi Plh (Pelaksana harian) jabatan Wali Kota Bandung yang kosong usai Yana Mulyana terjerat OTT KPK.Sesuai dengan aturan Menteri Dalam Negeri RI, Ema Sumarna secara otomatis terpilih sebagai Plh Wali Kota Bandung karena ia memiliki jabatan tertinggi kedua dalam Pemerintah Kota (Pemkot) Bandung.",
     image:
-        "https://d1bpj0tv6vfxyp.cloudfront.net/articles/813691_24-11-2020_11-2-8.webp",
+        "https://akcdn.detik.net.id/visual/2022/04/18/pelantikan-wali-kota-bandung-definitif-2_169.jpeg?w=650&q=90",
   ),
   News(
     id: 4,
-    title: "judul berita",
-    description: "deskripsi.",
+    title:
+        "Menyoal Kasus 2 Perempuan di Kafe di Pesisir Barat Sumbar Nyaris Ditelanjangi dan Diceburkan ke Laut",
+    description:
+        "Aksi penelanjangan dan penceburan ke laut terhadap dua perempuan di sebuah kafe di Kabupaten Pesisir Selatan, Sumatra Barat, menurut Komnas HAM, merupakan tindakan yang merendahkan martabat perempuan dan tidak manusiawi. Senada, Komnas Perempuan menyebut kekerasan itu termasuk dalam penganiayaan seksual sehingga para pelaku harus dihukum. Pihak kepolisian menyebut terdapat sekelompok orang melakukan tindakan persekusi terhadap dua perempuan yang diduga sebagai pemandu lagu di salah satu kafe di kawasan Pasir Putih Kambang, Kabupaten Pesisir Selatan, Sumatra Barat, pada Sabtu (8/4/2023).Artikel ini telah tayang di Kompas",
     image:
-        "https://rsudblora.blorakab.go.id/wp-content/uploads/2023/03/ilustrasi-brain-aneursym_169.jpeg",
+        "https://asset.kompas.com/crops/peqSDtmuFBr5YH646UOi8dDQT5I=/79x0:754x450/750x500/data/photo/2023/04/15/6439cef22025b.jpg",
   ),
   News(
     id: 5,
@@ -46,10 +50,12 @@ List<News> newsData = [
 List<News> hotNews = [
   News(
     id: 4,
-    title: "judul berita",
-    description: "deskripsi.",
+    title:
+        "Menyoal Kasus 2 Perempuan di Kafe di Pesisir Barat Sumbar Nyaris Ditelanjangi dan Diceburkan ke Laut",
+    description:
+        "Aksi penelanjangan dan penceburan ke laut terhadap dua perempuan di sebuah kafe di Kabupaten Pesisir Selatan, Sumatra Barat, menurut Komnas HAM, merupakan tindakan yang merendahkan martabat perempuan dan tidak manusiawi. Senada, Komnas Perempuan menyebut kekerasan itu termasuk dalam penganiayaan seksual sehingga para pelaku harus dihukum. Pihak kepolisian menyebut terdapat sekelompok orang melakukan tindakan persekusi terhadap dua perempuan yang diduga sebagai pemandu lagu di salah satu kafe di kawasan Pasir Putih Kambang, Kabupaten Pesisir Selatan, Sumatra Barat, pada Sabtu (8/4/2023).Artikel ini telah tayang di Kompas",
     image:
-        "https://rsudblora.blorakab.go.id/wp-content/uploads/2023/03/ilustrasi-brain-aneursym_169.jpeg",
+        "https://asset.kompas.com/crops/peqSDtmuFBr5YH646UOi8dDQT5I=/79x0:754x450/750x500/data/photo/2023/04/15/6439cef22025b.jpg",
   ),
   News(
     id: 5,
