@@ -39,10 +39,19 @@ List<News> newsData = [
   ),
   News(
     id: 5,
-    title: "judul berita",
-    description: "deskripsi.",
+    title: "Gerindra soal Walkot Bandung Kena OTT KPK: Sudah Lama Tak Komunikasi",
+    description: "Jakarta - KPK menggelar operasi tangkap tangan (OTT) terhadap Wali Kota Bandung Yana Mulyana terkait pengadaan CCTV dan jasa penyedia internet dalam program 'Bandung Smart City'. Yana Mulyana diketahui merupakan kader dari Partai Gerindra. Ketua DPP Partai Gerindra Sufmi Dasco Ahmad mengatakan Yana sudah lama tidak berkomunikasi dengan Gerindra. Bahkan Yana disebut tidak pernah hadir di acara partai.Dasco mengatakan partainya siap mendukung KPK dalam langkah hukum terhadap Yana. Hal ini sesuai dengan prinsip sang ketum Prabowo Subianto.
+.",
     image:
-        "https://rsudblora.blorakab.go.id/wp-content/uploads/2021/04/gambar-1-300x152.jpg",
+        "https://akcdn.detik.net.id/community/media/visual/2021/03/24/wakil-ketua-dpr-sufmi-dasco-ahmad-dok-istimewa_169.jpeg?w=700&q=90",
+  ),
+  News(
+    id: 6,
+    title: "3 Kali OTT KPK dalam 8 Hari: Bupati Kepulauan Meranti hingga Wali Kota Bandung",
+    description: "Dalam waktu delapan hari, Komisi Pemberantasan Korupsi (KPK) sudah menggelar operasi tangkap tangan (OTT) sebanyak tiga kali. Puluhan orang ditangkap. Ketiga OTT itu meringkus Bupati Kepulauan Meranti Muhammad Adil, sejumlah pejabat Direktorat Jenderal Perkeretaapian (DJKA) Kemenhub, dan terakhir Wali Kota Bandung Yana Mulyana.OTT Bupati Kepulauan Meranti Pada Kamis (6/4/2023), KPK menggelar tangkap tangan dan mengamankan 28 orang termasuk Bupati Kepulauan Meranti, Riau, Muhammad Adil. Mereka ditangkap di sejumlah lokasi yakni Kabupaten Kepulauan Meranti, Kabupaten Siak, Kota Pekanbaru, dan Jakarta.
+.",
+    image:
+        "https://asset.kompas.com/crops/GNKLGWdHVxSxhJmGUiOxiKAJTqg=/0x80:960x720/750x500/data/photo/2023/04/15/643a376fd94d2.jpg",
   ),
 ];
 
@@ -64,11 +73,12 @@ List<News> hotNews = [
     image:
         "https://rsudblora.blorakab.go.id/wp-content/uploads/2021/04/gambar-1-300x152.jpg",
   ),
-  News(
-    id: 2,
-    title: "judul berita",
-    description: "deskripsi",
+  ews(
+    id: 6,
+    title: "3 Kali OTT KPK dalam 8 Hari: Bupati Kepulauan Meranti hingga Wali Kota Bandung",
+    description: "Dalam waktu delapan hari, Komisi Pemberantasan Korupsi (KPK) sudah menggelar operasi tangkap tangan (OTT) sebanyak tiga kali. Puluhan orang ditangkap. Ketiga OTT itu meringkus Bupati Kepulauan Meranti Muhammad Adil, sejumlah pejabat Direktorat Jenderal Perkeretaapian (DJKA) Kemenhub, dan terakhir Wali Kota Bandung Yana Mulyana.OTT Bupati Kepulauan Meranti Pada Kamis (6/4/2023), KPK menggelar tangkap tangan dan mengamankan 28 orang termasuk Bupati Kepulauan Meranti, Riau, Muhammad Adil. Mereka ditangkap di sejumlah lokasi yakni Kabupaten Kepulauan Meranti, Kabupaten Siak, Kota Pekanbaru, dan Jakarta.
+.",
     image:
-        "https://d1bpj0tv6vfxyp.cloudfront.net/articles/dc7b9baf-93bf-49ef-8416-b641a7f1d3b0_article_image_url.webp",
-  )
+        "https://asset.kompas.com/crops/GNKLGWdHVxSxhJmGUiOxiKAJTqg=/0x80:960x720/750x500/data/photo/2023/04/15/643a376fd94d2.jpg",
+  ),
 ];
